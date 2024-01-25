@@ -1,6 +1,13 @@
 
 body {
-  font-family: 'Kanit', sans-serif;
+  font-family: "kanit", sans-serif;
+  padding: 100px;
+  background-image: url('../img/bg.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  padding: auto;
+  overflow: auto;
   color: #444444;
 }
 
